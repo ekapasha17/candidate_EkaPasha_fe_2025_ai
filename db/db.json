@@ -1,0 +1,182 @@
+{
+  "campaigns": [
+    {
+      "id": "1",
+      "brand": "EcoWear",
+      "campaignName": "Summer Collection Launch",
+      "description": "Introducing our sustainable summer collection",
+      "schedule": "2023-06-20T09:00:00",
+      "target": "Young adults interested in sustainable fashion",
+      "topic": "Product Launch",
+      "tone": "casual",
+      "logo": "/assets/logos/ecowear.png",
+      "caption": "Summer just got eco-friendly! 🌞♻️ Introducing our new summer collection made from 100% recycled materials. Be cool while keeping the planet cool too. #EcoWear #SustainableFashion",
+      "image": "/assets/generated/ecowear-summer.jpg",
+      "status": "posted",
+      "postedAt": "2023-06-20T09:05:23",
+      "createdAt": "2023-06-20T08:55:00.000Z"
+    },
+    {
+      "id": "2",
+      "brand": "TechHub",
+      "campaignName": "Annual Developer Conference",
+      "description": "Promoting our annual conference for developers",
+      "schedule": "2023-07-15T10:00:00",
+      "target": "Software developers and tech enthusiasts",
+      "topic": "Event Promotion",
+      "tone": "professional",
+      "logo": "/assets/logos/techhub.png",
+      "caption": "📅 Save the date! The TechHub Conf Developer Conference 2023 is just around the corner! 🚀 Join us for two exciting days filled with innovative workshops, inspiring keynotes, and fantastic networking opportunities. Don’t miss out—grab your early bird tickets now! 🎟️✨ #TechHubConf #DevCon2023 #DeveloperCommunity #TechEvents #NetworkingOpportunities",
+      "image": "/assets/generated/techhub-conf.jpg",
+      "status": "scheduled",
+      "postedAt": null,
+      "createdAt": "2023-07-14T15:30:00.000Z"
+    },
+    {
+      "id": "3",
+      "brand": "FitLife",
+      "campaignName": "New Protein Shake",
+      "description": "Launching our new protein shake flavors",
+      "schedule": "2023-06-10T08:30:00",
+      "target": "Fitness enthusiasts and gym-goers",
+      "topic": "Product Launch",
+      "tone": "friendly",
+      "logo": "/assets/logos/fitlife.png",
+      "caption": "Fuel your workout with our NEW protein shake flavors! 💪 Now available in Tropical Mango and Chocolate Mint. 20g of protein, no added sugar, and tastes amazing! Which flavor are you trying first? #FitLife #ProteinShake",
+      "image": "/assets/generated/fitlife-shake.jpg",
+      "status": "posted",
+      "postedAt": "2023-06-10T08:35:12",
+      "createdAt": "2023-06-10T08:25:00.000Z"
+    },
+    {
+      "id": 4,
+      "brand": "Nescafe",
+      "campaignName": "Coffee Mania",
+      "description": "the purpose is for gathering all of the coffee addict to get the quality coffee",
+      "target": "Coffee Enthusiast",
+      "topic": "Event",
+      "tone": "modern",
+      "schedule": "2025-05-22T20:00",
+      "logo": {},
+      "status": "draft",
+      "caption": "☕️ Ready to dive deep into the world of flavor? Join us at the Coffee Mania event where every sip is a celebration of quality and passion! 🎉 Don’t miss out—grab your tickets now and let’s brew some magic together! 👇\n\n#NescafeCoffeeMania #CoffeeLovers #SipSipHooray #QualityBrew #CoffeeCulture #JoinTheBrewCrew #CoffeeAddictsUnite",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Yjrxht4uEdVgBNDofTId7IVT/user-MMlugfxx7yGSuLobISRDbezU/img-Am8p16ampwlQWW7O1Io9WRKo.png?st=2025-05-22T09%3A57%3A25Z&se=2025-05-22T11%3A57%3A25Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-21T20%3A20%3A10Z&ske=2025-05-22T20%3A20%3A10Z&sks=b&skv=2024-08-04&sig=FVB976Yx%2BeeJgpr4qpes7CnTcH5qir3%2BN%2BVgpUAKzqI%3D",
+      "postedAt": null,
+      "createdAt": "2025-05-22T10:57:26.653Z"
+    },
+    {
+      "id": 5,
+      "brand": "Gojek",
+      "campaignName": "Sharing Vehicle",
+      "description": "this kind of campaign purpose is, we are persuading the people in indoneia to use our ride hailing app in order to step away from the traffic jam, so we can arrive at our destination faster",
+      "target": "employee",
+      "topic": "Promotion",
+      "tone": "casual",
+      "schedule": "2025-05-22T02:00",
+      "logo": null,
+      "status": "draft",
+      "caption": "Stuck in traffic? 😩 Let Gojek be your ride to freedom! 🚗💨 Skip the jams and arrive at work faster—because your time is too valuable to waste! Tap the link in our bio to book your ride now! 🙌\n\n#Gojek #RideSmart #TrafficFree #OfficeCommute #FastAndEasy #JakartaLife #WorkLifeBalance",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Yjrxht4uEdVgBNDofTId7IVT/user-MMlugfxx7yGSuLobISRDbezU/img-9fUWbUYkZYHjyuL70HYjTFZX.png?st=2025-05-22T13%3A48%3A24Z&se=2025-05-22T15%3A48%3A24Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-22T01%3A09%3A45Z&ske=2025-05-23T01%3A09%3A45Z&sks=b&skv=2024-08-04&sig=LhsxiTHXxSNojm5wj0gBpHOjk1fD/EtBBIsPSHYoT8E%3D",
+      "postedAt": null,
+      "createdAt": "2025-05-22T14:48:27.024Z"
+    },
+    {
+      "id": 6,
+      "brand": "Tech Gadgets Pro",
+      "campaignName": "Smart Watch Series",
+      "description": "we are seeking the group of people which has the believe in the smart watch, especially when it comes to the healthy lifestyle extension for daily use ",
+      "target": "The people who likes to do sport",
+      "topic": "Product Launch",
+      "tone": "modern",
+      "schedule": "2025-05-23T02:00",
+      "logo": null,
+      "status": "draft",
+      "caption": "Level up your game with our all-new Smart Watch Series! ⌚️💪 Designed for those who chase their fitness goals, this gadget is your perfect workout buddy. Ready to track your progress and smash those limits? 🚀 \n\n#TechGadgetsPro #SmartWatch #FitnessGoals #HealthyLifestyle #SportLife #TechForGood #WearableTech #GetMoving",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Yjrxht4uEdVgBNDofTId7IVT/user-MMlugfxx7yGSuLobISRDbezU/img-lYEXiDiD6Lyh17Og742VVtsV.png?st=2025-05-22T13%3A56%3A03Z&se=2025-05-22T15%3A56%3A03Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-22T00%3A40%3A58Z&ske=2025-05-23T00%3A40%3A58Z&sks=b&skv=2024-08-04&sig=LP70ku3XJWnTluU3gdy9Sa6%2Be2I6/MrwzX2Rk6V/btA%3D",
+      "postedAt": null,
+      "createdAt": "2025-05-22T14:56:05.658Z"
+    },
+    {
+      "id": 7,
+      "brand": "Chagee",
+      "campaignName": "Tea Party",
+      "description": "we are persuading the people around the world to experiencing our tea variety that comes from mainland china which has many flavors and many stories back then, so the people could see the difference between the tea from mainland china and west country",
+      "target": "Tea drinker",
+      "topic": "Event Promotion",
+      "tone": "humorous",
+      "schedule": "2025-05-22T02:00",
+      "logo": null,
+      "status": "draft",
+      "caption": "Sip, sip, hooray! 🥳 Join us for a tea party that’s better than a British royal tea—because who needs crumpets when you’ve got our flavorful brews straight from mainland China? ☕️🍃 Ready to spill the tea? Tap that RSVP button and let’s get steeped in flavor! \n\n#ChageeTeaParty #TeaLoversUnite #SipSipHooray #TeaTime #FlavorsOfChina #DrinkTeaBeHappy #TeaNotWar #SteepedInStories",
+      "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-Yjrxht4uEdVgBNDofTId7IVT/user-MMlugfxx7yGSuLobISRDbezU/img-qeJY34oUGZPunfapmFBm3NDf.png?st=2025-05-22T14%3A03%3A25Z&se=2025-05-22T16%3A03%3A25Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-22T12%3A45%3A15Z&ske=2025-05-23T12%3A45%3A15Z&sks=b&skv=2024-08-04&sig=S3XESh6XBWjIwulZZSPSt0c2Q/Wc6b%2BnFrRH%2BYVCj%2B4%3D",
+      "postedAt": null,
+      "createdAt": "2025-05-22T15:03:28.335Z"
+    },
+    {
+      "id": 8,
+      "brand": "Polygon Bike",
+      "campaignName": "Healthy By Cycling",
+      "description": "we are encouraging the people who works in the office to commute using bicycle instead of car, motorcycle or public transportation in order to leverage the opportunity to do the sport activities while still working in the office",
+      "target": "professional",
+      "topic": "Product Launch",
+      "tone": "professional",
+      "schedule": "2025-05-23T02:00",
+      "logo": null,
+      "status": "draft",
+      "caption": "Transform your commute into a workout with our latest Polygon Bike launch! 🚴‍♂️ Embrace the benefits of cycling to the office and boost your health while you work. Ready to pedal your way to a healthier lifestyle? Join us! 🌱\n\n#HealthyByCycling #PolygonBike #CommuteSmart #ActiveLifestyle #OfficeCycling #BikeToWork #GetMoving #ProfessionalHealth",
+      "image": "/assets/generated/campaign-1747926453118-healthy-by-cycling-1747926453118.png",
+      "postedAt": null,
+      "createdAt": "2025-05-22T15:07:33.120Z"
+    },
+    {
+      "id": 9,
+      "brand": "Milo",
+      "campaignName": "Milk for everyone",
+      "description": "we are encouraging the people around the world to experiencing the milo chocolate milk in order to be more healthy, especially for the sports athlete",
+      "target": "fitness enthusiast",
+      "topic": "Product Launch",
+      "tone": "friendly",
+      "schedule": "2025-05-23T02:00",
+      "logo": null,
+      "status": "draft",
+      "caption": "Ready to fuel your fitness journey? 🏋️‍♂️🥛 Say hello to Milo Chocolate Milk – the perfect blend of taste and nutrition for athletes everywhere! Grab yours today and feel the difference! 💪✨ \n\n#MiloForEveryone #FuelYourFitness #ChocolateMilk #HealthyLiving #AthleteApproved #MiloMoments #StrongTogether",
+      "image": "/assets/generated/campaign-1747927279405-milk-for-everyone-1747927279405.png",
+      "postedAt": null,
+      "createdAt": "2025-05-22T15:21:19.406Z"
+    }
+  ],
+  "tones": [
+    {
+      "id": "friendly",
+      "name": "Friendly",
+      "description": "Warm and approachable"
+    },
+    {
+      "id": "casual",
+      "name": "Casual",
+      "description": "Relaxed and informal"
+    },
+    {
+      "id": "modern",
+      "name": "Modern",
+      "description": "Contemporary and innovative"
+    },
+    {
+      "id": "professional",
+      "name": "Professional",
+      "description": "Formal and business-like"
+    },
+    {
+      "id": "humorous",
+      "name": "Humorous",
+      "description": "Funny and entertaining"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "administrator1x",
+      "password": "1xpassword"
+    }
+  ]
+}
