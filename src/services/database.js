@@ -1,6 +1,8 @@
 import axios from 'axios'
 
-const API_BASE_URL = 'http://localhost:3001'
+const API_BASE_URL = typeof window !== 'undefined' && window.location.hostname === 'localhost' && window.location.port === '5173' 
+  ? 'http://localhost:3001' 
+  : null
 
 // Create axios instance with base configuration
 const api = axios.create({
