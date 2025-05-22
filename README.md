@@ -71,7 +71,7 @@ A professional social media content management platform that uses AI to generate
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-social-media-generator.git
+   https://github.com/ekapasha17/candidate_EkaPasha_fe_2025_ai.git
    cd ai-social-media-generator
    ```
 
