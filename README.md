@@ -72,7 +72,7 @@ A professional social media content management platform that uses AI to generate
 1. **Clone the repository**
    ```bash
    https://github.com/ekapasha17/candidate_EkaPasha_fe_2025_ai.git
-   cd ai-social-media-generator
+   cd candidate_EkaPasha_fe_2025_ai
    ```
 
 2. **Install dependencies**
